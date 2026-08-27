@@ -16,6 +16,9 @@ The project evolved from an earlier fixed-layout implementation into a fully res
 ### Mobile View
 ![Telecom Management System Mobile](assets/mobile-view.png)
 
+### Mobile Navigation
+![Mobile Navigation](assets/mobile-menu.png)
+
 ## Tech Stack
 
 - HTML5
