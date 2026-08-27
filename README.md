@@ -8,6 +8,14 @@ The Telecom Management System is a responsive web application developed to demon
 
 The project evolved from an earlier fixed-layout implementation into a fully responsive application using semantic HTML, flexible CSS layouts, JavaScript-powered mobile navigation, responsive images, and media queries.
 
+## Screenshots
+
+### Desktop View
+![Telecom Management System Desktop](assets/desktop-view.png)
+
+### Mobile View
+![Telecom Management System Mobile](assets/mobile-view.png)
+
 ## Tech Stack
 
 - HTML5
