@@ -2,6 +2,8 @@
 
 A responsive telecommunications web application designed to provide a consistent and accessible user experience across desktop, tablet, and mobile devices.
 
+### 🌐 [View Live Demo](https://ariyanaperkins392-sys.github.io/telecom-management-web-app/)
+
 ## Overview
 
 The Telecom Management System is a responsive web application developed to demonstrate frontend development, responsive design, and user-interface architecture for a fictional telecommunications company.
